@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite1" duration-ms="310284" started-at="2014-09-11T08:44:31Z" finished-at="2014-09-11T08:49:42Z">
+    <groups>
+    </groups>
+    <test name="MavenJenkinsProject" duration-ms="310284" started-at="2014-09-11T08:44:31Z" finished-at="2014-09-11T08:49:42Z">
+      <class name="com.nexii.testing.NexiiContactTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nexii.testing.NexiiContactTest@1801443]" name="beforeSuite" is-config="true" duration-ms="192" started-at="2014-09-11T14:14:31Z" finished-at="2014-09-11T14:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="contactUs()[pri:0, instance:com.nexii.testing.NexiiContactTest@1801443]" name="contactUs" duration-ms="310268" started-at="2014-09-11T14:14:31Z" finished-at="2014-09-11T14:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+      </class> <!-- com.nexii.testing.NexiiContactTest -->
+    </test> <!-- MavenJenkinsProject -->
+  </suite> <!-- suite1 -->
+</testng-results>
